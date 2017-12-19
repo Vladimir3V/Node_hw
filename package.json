@@ -1,0 +1,8 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Vladimir3V/Node_hw.git",
+  "author": "Vladimir Vakhrushev <lenta-b@yandex.ru>",
+  "license": "MIT"
+}
